@@ -45,7 +45,7 @@ MuseScore {
         c.inputStateMode=Cursor.INPUT_STATE_SYNC_WITH_SCORE
         var t = newElement(Element.STAFF_TEXT); 
         t.fontSize= 20
-        t.text = out
+        t.text = "PT:" + out
         curScore.startCmd()
         c.add(t)
         curScore.endCmd()
