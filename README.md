@@ -4,7 +4,7 @@
 ### Installation
 1. (Only in Linux and macOS) Install `socat` if it is not already installed: `sudo apt install socat` in Debian based distros or `brew install socat` in macOS Homebrew
 2. (Only in Linux and macOS) Install `mpv` media player: `sudo apt install mpv` in Debian based distros or `brew install mpv` in macOS Homebrew
-3. Download the latest repo release from [here]() and unzip it (you can also perform `git clone` if you have git installed)
+3. Download the latest repo release from [here](https://github.com/multiscore/mpvplaytime/archive/refs/heads/main.zip) and unzip it (you can also perform `git clone` if you have git installed)
 4. Copy the `mpvplaytime` folder to your MuseScore plugins folder (see [here](https://musescore.org/en/handbook/plugins#installing-and-removing-plugins) for more info)
 5. Restart MuseScore 3 (only MuseScore 3 is supported until MuseScore 4 is compatible with QProcess calls in plugins API)
 6. Set a shortcut, as `Ctrl+Shift+M` (or `Cmd+Shift+M` in macOS) for the mpvplaytime plugin in `Plugins -> Manage Plugins` menu.
