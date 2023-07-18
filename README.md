@@ -13,7 +13,7 @@
 ### Usage
 1. Open a score in MuseScore 3
 2. Open an audio performance in MPV player. For Windows users, use the already bundled `mpv.exe` in the `mpvplaytime/mpv-*-x86_64` folder. For Linux and macOS users, use the `mpv` command in the terminal or in the apps dashboard.
-3. Follow along the score in MuseScore while listening the real performance and tag the time you want to mark with `Ctrl+Shift+M` (or `Cmd+Shift+M` in macOS)
+3. Follow along the score in MuseScore while listening the real performance and tag the time you want to mark with `Alt+D` (or `Cmd+D` in macOS)
 
 ### Notes
 - For some reason, Linux is not able to create the text in the score using the `cursor` class. A workaround is being researched.
